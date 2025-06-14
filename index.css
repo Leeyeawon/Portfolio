@@ -1,0 +1,26 @@
+@import url('https://fastly.jsdelivr.net/gh/wanteddev/wanted-sans@v1.0.1/packages/wanted-sans/fonts/webfonts/variable/split/WantedSansVariable.min.css');
+@import url('//fonts.googleapis.com/earlyaccess/notosanskr.css');
+@font-face {
+    font-family: 'jsMath-cmti10 cmti10';
+    font-style: normal;
+    font-weight: normal;
+    src: local('jsMath-cmti10 cmti10'), url('jsMath-cmti10.woff') format('woff');
+    }
+@font-face {
+    font-family: 'LINESeedKR-Bd';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_11-01@1.0/LINESeedKR-Bd.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+body{
+    font-family: "Wanted Sans Variable", serif;
+    color: #79797979;
+    overflow-x: hidden;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
